@@ -1,0 +1,82 @@
+{"level":"info","time":"2024-05-29T11:59:14+05:30","message":"Application is starting..."}
+{"level":"info","time":"2024-05-29T11:59:14+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:14+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:16+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:16+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:18+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:18+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:20+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:20+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:22+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:22+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:24+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:24+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:26+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:26+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:28+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:28+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:30+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:30+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:32+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:32+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:34+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:34+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:34+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:36+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:36+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:36+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:38+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:38+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:38+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:40+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:40+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:40+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:42+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:42+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:42+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:44+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:44+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:44+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:46+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:46+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:46+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:48+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:48+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:48+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:50+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:50+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:50+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:52+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:52+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:52+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:54+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:54+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:54+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:56+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:56+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:56+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T11:59:58+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T11:59:58+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T11:59:58+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T12:00:00+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T12:00:00+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T12:00:00+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T12:00:02+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T12:00:02+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T12:00:02+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-05-29T12:00:04+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-05-29T12:00:04+05:30","message":"failed to connect to `host=/tmp user=jyoti database=`: dial error (dial unix /tmp/.s.PGSQL.5432: connect: no such file or directory)"}
+{"level":"info","time":"2024-05-29T12:00:04+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-06-14T11:09:56+05:30","message":"Application is starting..."}
+{"level":"info","time":"2024-06-14T11:09:56+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-06-14T11:09:56+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-06-14T11:09:58+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-06-14T11:09:58+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-06-14T11:10:00+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-06-14T11:10:00+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-06-14T11:10:02+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-06-14T11:10:02+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-06-14T11:10:04+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-06-14T11:10:04+05:30","message":"Backing off for 2 seconds...."}
+{"level":"info","time":"2024-06-14T11:10:06+05:30","message":"Postgres not yet ready..."}
+{"level":"info","time":"2024-06-14T11:10:06+05:30","message":"Backing off for 2 seconds...."}
